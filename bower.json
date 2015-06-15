@@ -1,0 +1,11 @@
+{
+    "name":         "jquery.bxslider",
+    "version":      "0.0.1",
+    "dependencies": {
+        "requirejs.css": "*",
+        "bxslider-4":    "*"
+    },
+    "main":         [
+        "jquery.bxslider.js"
+    ]
+}
